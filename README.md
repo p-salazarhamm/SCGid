@@ -170,20 +170,20 @@ etc..
 Now all you have to do is run `scgid spexpand [args...]` remembering to provide File #1 as `-p|--proteins` and File #2 as `-l|--lineages`.
 
 ### Citations
-Altschup, S. F., Gish, W., Pennsylvania, T., & Park, U. (1990). Basic Local Alignment Search Tool 2Department of Computer Science, 403–410.  
+Altschup, S. F., Gish, W., Pennsylvania, T., & Park, U. (1990). Basic Local Alignment Search Tool. J Mol Biol, 215(3), 403–410. https://doi.org/10.1016/S0022-2836(05)80360-2
 
-Amses, K. R., Davis, W. J., & James, T. Y. scgid, a python-based tool for scaffold binning and genome prediction from single-cell sequencing libraries, (in prep).
+Amses, K. R., Davis, W. J., & James, T. Y. (2020). SCGid: a consensus approach to contig filtering and genome prediction from single-cell sequencing libraries of uncultured eukaryotes. Bioinformatics, 36(7), 1994–2000. https://doi.org/10.1093/bioinformatics/btz866
   
-Dick, G. J., Andersson, A. F., Baker, B. J., Simmons, S. L., Thomas, B. C., Yelton, A. P., & Banfield, J. F. (2009). Community-wide analysis of microbial genome sequence signatures, 10(8). https://doi.org/10.1186/gb-2009-10-8-r85  
+Dick, G. J., Andersson, A. F., Baker, B. J., Simmons, S. L., Thomas, B. C., Yelton, A. P., & Banfield, J. F. (2009). Community-wide analysis of microbial genome sequence signatures, Genome Biol, 10(8). https://doi.org/10.1186/gb-2009-10-8-r85  
 
-Huerta-Cepas, J., Serra, F., and Bork, P. ETE 3: Reconstruction, analysis and visualization of phylogenomic data. Mol Biol Evol 2016; doi: 10.1093/molbev/msw046
+Huerta-Cepas, J., Serra, F., and Bork, P. (2016). ETE 3: Reconstruction, analysis and visualization of phylogenomic data. Mol Biol Evol. https://doi.org/10.1093/molbev/msw046
   
-Kumar, S., Jones, M., Koutsovoulos, G., Clarke, M., & Blaxter, M. (2013). Blobology : exploring raw genome data for contaminants , symbionts , and parasites using taxon-annotated GC-coverage plots, 4(November), 1–12. https://doi.org/10.3389/fgene.2013.00237
+Kumar, S., Jones, M., Koutsovoulos, G., Clarke, M., & Blaxter, M. (2013). Blobology : exploring raw genome data for contaminants, symbionts, and parasites using taxon-annotated GC-coverage plots, 4(November), 1–12. https://doi.org/10.3389/fgene.2013.00237
 
 McInerney, J. O. (1998). GCUA: general codon usage analysis. Bioinformatics, 14(4), 372–373. https://doi.org/10.1093/bioinformatics/14.4.372  
   
-Mikhailov, K. V, Simdyanov, T. G., Aleoshin, V. V, & Belozersky, A. N. (2016). Genomic survey of a hyperparasitic microsporidian Amphiamblys sp. (Metchnikovellidae) Genome Biology and Evolution Advance Access. Genome Biology and Evolution, 9(3), 454–467. https://doi.org/10.1093/gbe/evw235  
+Mikhailov, K. V, Simdyanov, T. G., Aleoshin, V. V, & Belozersky, A. N. (2016). Genomic survey of a hyperparasitic microsporidian *Amphiamblys* sp. (Metchnikovellidae) Genome Biology and Evolution Advance Access. Genome Biol Evol, 9(3), 454–467. https://doi.org/10.1093/gbe/evw235  
   
-Pati, A., Heath, L. S., Krypides, N. C., & Ivanova, N. (2011). ClaMS: A Classifier for Metagenomic Sequences. Standards in Genomic Sciences, 5, 248–253. https://doi.org/10.4056/sigs.2075298  
+Pati, A., Heath, L. S., Krypides, N. C., & Ivanova, N. (2011). ClaMS: A Classifier for Metagenomic Sequences. Stand Genomic Sci, 5, 248–253. https://doi.org/10.4056/sigs.2075298  
 
-Stanke, M., & Morgenstern, B. (2005). AUGUSTUS: A web server for gene prediction in eukaryotes that allows user-defined constraints. Nucleic Acids Research, 33(SUPPL. 2), 465–467. https://doi.org/10.1093/nar/gki458
+Stanke, M., & Morgenstern, B. (2005). AUGUSTUS: A web server for gene prediction in eukaryotes that allows user-defined constraints. Nucl Acids Res, 33(SUPPL. 2), 465–467. https://doi.org/10.1093/nar/gki458
